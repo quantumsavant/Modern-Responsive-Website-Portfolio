@@ -368,6 +368,9 @@ footer ul li a {
   .input-box input::placeholder {
     font-size: 1.5rem;
   }
+   .about-container {
+    flex-direction: column;
+  }
 
   .input-box i {
     display: none;
@@ -377,6 +380,7 @@ footer ul li a {
   }
   .experience-info img {
     width: 70vw;
+    
   }
 }
 
@@ -431,3 +435,4 @@ footer ul li a {
     gap: 1rem;
   }
 }
+
